@@ -2,7 +2,7 @@
 import { motion, Variants } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { SiNextdotjs, SiTailwindcss, SiDjango, SiReact, SiFramer, SiStripe, SiShadcnui, SiPostgresql } from "react-icons/si";
+import { SiNextdotjs, SiTailwindcss, SiDjango, SiShadcnui, SiPostgresql } from "react-icons/si";
 
 const proyectos = [
     {
